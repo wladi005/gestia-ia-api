@@ -1,0 +1,6 @@
+{
+  "name": "gestia-ia-api",
+  "version": "2.0.0",
+  "description": "Proxy seguro de APIs para GESTIA-IA - Vercel Serverless Functions",
+  "type": "module"
+}
